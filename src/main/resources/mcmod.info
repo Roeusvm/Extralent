@@ -1,0 +1,14 @@
+[{
+  "modid": "extralent",
+  "name": "Extralent",
+  "description": "This is a extralent mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Rouesvm"],
+  "credits": "Rouesvm for not dying.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}]
